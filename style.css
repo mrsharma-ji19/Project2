@@ -1,0 +1,165 @@
+body {
+    background-color: rgb(12, 11, 11);
+}
+
+.navbar {
+    display: flex;
+    color: white;
+    padding: 44;
+
+}
+
+
+.navlinkbar {
+    display: flex;
+    padding-left: 700px;
+    font-size: 24px;
+    scrollbar-highlight-color: rgb(23, 33, 223);
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 256;
+}
+
+
+.Ritesh {
+    display: flex;
+    color: white;
+}
+
+.imagess {
+    display: flex;
+    margin-left: 200px;
+
+
+}
+
+.profile-section {
+    width: 50%;
+    color: white;
+}
+
+.imagess {
+    width: 40%;
+}
+
+.footer {
+    background-color: rgb(56, 97, 97);
+    text-decoration-color: rgb(249, 249, 249);
+    margin-top: 370px;
+    text-align: center;
+    border-radius: 40px
+}
+
+.footer-abt {
+    background-color: aqua;
+    margin-top: 505px;
+    border-radius: 40px;
+    text-align: center;
+}
+
+.about {
+
+
+
+    color: rgb(91, 131, 131);
+    text-align: center;
+
+    h1 {
+        text-align: left;
+        color: aqua;
+    }
+}
+
+
+.info {
+background-image: url(shopping-removebg-preview.png);
+    width: 60%;
+    margin: 0 auto;
+    color: white text-align: center;
+}
+
+
+
+
+.skills-wrapper {
+    margin-top: 64px;
+}
+
+
+.skills {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+
+}
+
+.skill {
+    background-color: rgb(79, 76, 76);
+    color: rgb(248, 235, 235);
+    padding: 16px 24px;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+
+
+
+
+.project {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    gap: 12px;
+    color: white;
+}
+
+.projectimage {
+    display: block;
+    width: 600px;
+    height: auto;
+}
+
+.projectdesp {
+    padding: 60px 80px;
+    font-size: 24px;
+    line-height: 32px;
+    color: white;
+
+}
+
+
+.projectname {
+    font-size: 32px;
+    color: rgb(199, 186, 186);
+}
+
+.form {
+    background-image: url(shopping-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: ;
+    background-position: left;
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(120, 111, 111) ;
+    border-left: 12px;
+}
+.container{
+    background-image: url(shopping-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: ;
+    background-position: center;
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(120, 111, 111) ;
+    border-width: 1px;
+    border-radius: 0%;
+}
+
+}
